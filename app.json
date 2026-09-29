@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Joutik",
+    "slug": "joutik",
+    "scheme": "joutik",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joutik.app"
+    },
+    "android": {
+      "package": "com.joutik.app"
+    }
+  }
+}
